@@ -1,0 +1,24 @@
+h1, h2, h3, h4 {
+	margin: 20px 0px;
+}
+
+form label {
+	display: block;
+}
+
+form p {
+	margin: 20px 0px;
+}
+
+.results label {
+	display: block;
+	margin: 20px 0px;
+}
+
+.results textarea {
+	width: 600px;
+	height: 500px;
+	text-align: left;
+	font-family: monospace;
+}
+
